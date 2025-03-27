@@ -1,19 +1,22 @@
-# This is the CSE 360 Group 11 Team "Born to Code Forced to Debug" Project Repo!
+# This is the repo for HW3 for Ryan Sinclaire
 
-Currently working on Phase 2
+The file for this assignmennt is going to be under test.
+For this assignment I wrote 8 tests for 4 methods.
+recentFilterTest
+categoryFilterTest
+isSolvedFilterTest
+myQuestionFilterTest
+
+I tried to use javadoc to test a different method but it wouldn't allow me to runn my other test so I left it out of this assignment.
+
+LINKS
+[Screen Cast](https://drive.google.com/file/d/19MFvNq6k9OjR--QNuwfjoTeCV2XwSDms/view?usp=sharing) 
+[javadoc inspiration](https://blog.joda.org/2012/11/javadoc-coding-standards.html)
+
+Javadoc inspiration was a little different from the professors
+They recommended omitting the @author but were kind of loose on other style aspects
 
 
-Only add files that has been modified by us! This is to keep the repo clean and allow for another IDE to use the files.
-This readme.txt will be updated and along with the workflow for our project as time passes.
-
-This repo will a reference towards our projects later. So phase 1, phase 2, etc..
-This readme.txt will be updated and along with the workflow for our project as time passes.
-
-
-The repo files contains all the .java files that will be compiled on build up.
-This repo will a reference towards our projects later. So phase 1, phase 2, etc..
-
-In order to use to run the raw source code, you will need to have the javafx-sdk-23.0.1 or later to have the files run the JavaFX library + importing the java files to your project and configuring it.
 
 The "src" will contain all the java files to run and build the application along with the compile. The rest of the files are .gitignores to avoid adding local project settings.
 
@@ -40,14 +43,6 @@ src 📁\
   ↳nameRecongnizer 📁\ ->  nameRecongnizer.java
   ↳module-info.java
 </pre>
-
-Links to all Phase 1 Recordings:
-
-  Team Standups:
-    [Jan 28, 2025 08:00 PM](https://www.youtube.com/watch?v=epys2MP63AI), 
-    [Jan 30, 2025 08:00 PM](https://www.youtube.com/watch?v=A7YBBtRFDAA), 
-    [Feb 3, 2025 08:00 PM](https://www.youtube.com/watch?v=QZpwuF4FvXk), 
-    [Feb 5, 2025 10:00 PM](https://youtu.be/SThFWdSeYEM)
 
   Screencasts:
     [Code Screencast](https://drive.google.com/file/d/1b70YJkPmOlLkCJO6ii89kb8dm99qFwf9/view?usp=sharing), 
