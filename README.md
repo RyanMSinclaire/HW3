@@ -9,9 +9,9 @@ For this assignment I wrote 8 tests for 4 methods.
 - isSolvedFilterTest
 - myQuestionFilterTest
 
-I tried to use **javadoc** to test a different method but it wouldn't allow me to runn my other test so I left it out of this assignment.
+I tried to use **jUnit** to test a different method but it wouldn't allow me to runn my other test so I left it out of this assignment.
 
-LINKS:
+__LINKS__:
 
 [Screen Cast](https://drive.google.com/file/d/19MFvNq6k9OjR--QNuwfjoTeCV2XwSDms/view?usp=sharing)  
 
