@@ -9,10 +9,15 @@ myQuestionFilterTest
 
 I tried to use javadoc to test a different method but it wouldn't allow me to runn my other test so I left it out of this assignment.
 
-LINKS
-[Screen Cast](https://drive.google.com/file/d/19MFvNq6k9OjR--QNuwfjoTeCV2XwSDms/view?usp=sharing)  https://drive.google.com/file/d/19MFvNq6k9OjR--QNuwfjoTeCV2XwSDms/view?usp=sharing
+LINKS:
 
-[javadoc inspiration](https://blog.joda.org/2012/11/javadoc-coding-standards.html) https://blog.joda.org/2012/11/javadoc-coding-standards.html
+[Screen Cast](https://drive.google.com/file/d/19MFvNq6k9OjR--QNuwfjoTeCV2XwSDms/view?usp=sharing)  
+
+https://drive.google.com/file/d/19MFvNq6k9OjR--QNuwfjoTeCV2XwSDms/view?usp=sharing
+
+[javadoc inspiration](https://blog.joda.org/2012/11/javadoc-coding-standards.html) 
+
+https://blog.joda.org/2012/11/javadoc-coding-standards.html
 
 Javadoc inspiration was a little different from the professors
 They recommended omitting the @author but were kind of loose on other style aspects
