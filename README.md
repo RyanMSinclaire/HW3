@@ -9,7 +9,7 @@ For this assignment I wrote 8 tests for 4 methods.
 - isSolvedFilterTest
 - myQuestionFilterTest
 
-I tried to use **jUnit** to test a different method but it wouldn't allow me to runn my other test so I left it out of this assignment.
+I tried to use **jUnit** to test a different method but it wouldn't allow me to run my other test so I left it out of this assignment.
 
 __LINKS__:
 
