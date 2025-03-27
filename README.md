@@ -1,14 +1,15 @@
-# This is the repo for HW3 for Ryan Sinclaire
+# HW3 for Ryan Sinclaire
 
 The file for this assignmennt is going to be under test.
 For this assignment I wrote 8 tests for 4 methods.
 
+## methods for testing
 - recentFilterTest
 - categoryFilterTest
 - isSolvedFilterTest
 - myQuestionFilterTest
 
-I tried to use ==javadoc== to test a different method but it wouldn't allow me to runn my other test so I left it out of this assignment.
+I tried to use **javadoc** to test a different method but it wouldn't allow me to runn my other test so I left it out of this assignment.
 
 LINKS:
 
